@@ -1,0 +1,14 @@
+{
+  "../node_modules/@tidecloak/js/dist/esm/lib/tidecloak.js -> ./tidecloak-dpop.js": {
+    "id": "../node_modules/@tidecloak/js/dist/esm/lib/tidecloak.js -> ./tidecloak-dpop.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_tidecloak_js_dist_esm_lib_tidecloak-dpop_js.js"
+    ]
+  },
+  "../node_modules/@tidecloak/js/dist/esm/src/IAMService.js -> ../lib/tidecloak-dpop.js": {
+    "id": "../node_modules/@tidecloak/js/dist/esm/src/IAMService.js -> ../lib/tidecloak-dpop.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_tidecloak_js_dist_esm_lib_tidecloak-dpop_js.js"
+    ]
+  }
+}
