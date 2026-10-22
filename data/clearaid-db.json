@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "tideuserkey": "200000618e115a2874cd9111093be7de0b5dd9fb8846791f88dc6f63a7313e06bf3e92",
+      "sub": "c255a7c6-a71a-49c8-810b-3fc2a23bc832",
+      "registeredAt": "2026-10-22T09:10:23.213Z",
+      "isAdmin": true
+    }
+  ],
+  "entries": [],
+  "policies": [],
+  "audit": [
+    {
+      "at": "2026-10-22T09:10:23.213Z",
+      "actor": "admin",
+      "action": "user.registered",
+      "recordId": "",
+      "detail": "council (tide-realm-admin)"
+    }
+  ],
+  "cases": [],
+  "ledger": [],
+  "donations": []
+}
