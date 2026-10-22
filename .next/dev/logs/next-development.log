@@ -11,3 +11,9 @@
 {"timestamp":"00:00:48.355","source":"Browser","level":"DEBUG","message":"[TideCloak] Auth state update from: ready"}
 {"timestamp":"00:00:48.355","source":"Browser","level":"DEBUG","message":"[TideCloak] Auth state update from: ready"}
 {"timestamp":"00:00:48.355","source":"Browser","level":"DEBUG","message":"[TideCloak] Auth state update from: init"}
+{"timestamp":"00:06:00.720","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:06:00.762","source":"Browser","level":"DEBUG","message":"[IAMService] Initializing IAM..."}
+{"timestamp":"00:06:00.762","source":"Browser","level":"DEBUG","message":"[IAMService] silentCheckSsoRedirectUri derived from origin-root: http://localhost:3000/silent-check-sso.html"}
+{"timestamp":"00:06:00.824","source":"Browser","level":"DEBUG","message":"[TideCloak] Auth state update from: ready"}
+{"timestamp":"00:06:00.824","source":"Browser","level":"DEBUG","message":"[TideCloak] Auth state update from: ready"}
+{"timestamp":"00:06:00.824","source":"Browser","level":"DEBUG","message":"[TideCloak] Auth state update from: init"}
